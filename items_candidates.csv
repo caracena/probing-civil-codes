@@ -1,0 +1,75 @@
+idx,n_countries,disc_units,align_score,ES_art,ES_vals,CL_art,CL_vals,CO_art,CO_vals,AR_art,AR_vals,ES_context
+0,4,years,0.395,1843,10y,2369,5y,2394,10y,1594,5y,CAPÍTULO II. De los efectos de la fianza > Sección 3.ª De los efectos de la fianza entre los cofiadores
+1,4,days,0.39,116,300d,184,"80d,300d",220,300d,566,300d,TÍTULO V. De la paternidad y filiación > CAPÍTULO II. De las pruebas de la filiación de los hijos legítimos
+2,4,years,0.263,652,1y,1430,4y,1481,4y,1573,1y,TÍTULO II. De la donación > CAPÍTULO IV. De la revocación y reducción de las donaciones
+3,4,days,0.25,117,"6m,80d",184,"80d,300d",216,"100d,140d",591,"1y,80d",TÍTULO V. De la paternidad y filiación > CAPÍTULO II. De las pruebas de la filiación de los hijos legítimos
+4,4,years,0.248,183,"1y,3y",81,"2m,3m,5y",97,"2y,4m",85,3y,TÍTULO VIII. De la ausencia > CAPÍTULO II. De la declaración de ausencia
+5,4,years,0.23,1963,30y,2512,10y,2533,"5y,10y",1965,10y,TÍTULO XVIII. De la prescripción > CAPÍTULO III. De la prescripción de las acciones
+6,4,years,0.229,241,16y,270,18y,62,21y,27,18y,LIBRO PRIMERO. De las personas > TÍTULO X. De la mayor edad y de la emancipación
+7,4,years,0.226,1591,"10y,15y",2003,5y,2060,10y,2564,1y,CAPÍTULO III. Del arrendamiento de obras y servicios > Sección 2.ª De las obras por ajuste o precio alzado
+8,4,years,0.216,460,1y,920,1y,976,1y,1898,"2y,10y",TÍTULO V. De la posesión > CAPÍTULO III. De los efectos de la posesión
+9,4,years,0.209,1508,"4y,10y",1880,4y,2046,"1y,5y",1506,"2y,4y",CAPÍTULO VI. De la resolución de la venta > Sección 1.ª Del retracto convencional
+10,4,years,0.206,240,18y,1692,10y,34,"7y,14y",25,"13y,18y",LIBRO PRIMERO. De las personas > TÍTULO X. De la mayor edad y de la emancipación
+11,4,years,0.204,140,"1y,4y",218,1y,974,1y,582,1y,CAPÍTULO IV. De los hijos ilegítimos > Sección segunda. De los demás hijos ilegítimos
+12,4,years,0.194,546,20y,885,3y,938,"8y,10y",2182,"10y,50y",CAPÍTULO I. De las servidumbres en general > Sección 4.ª De los modos de extinguirse las servidumbres
+13,4,years,0.191,243,16y,206,"3y,80d",140,18y,645,18y,TÍTULO X. De la mayor edad y de la emancipación > CAPÍTULO VII. De las excusas de tutela y protutela
+14,4,years,0.189,177,"2y,12y",270,18y,62,21y,634,10y,CAPÍTULO V. De la adopción > Sección segunda: De la adopción plena
+15,4,years,0.189,1301,4y,1691,4y,1750,4y,2563,2y,TÍTULO II. De los contratos > CAPÍTULO VI. De la nulidad de los contratos
+16,4,years,0.176,1957,10y,2510,10y,2533,"5y,10y",1898,"2y,10y",TÍTULO XVIII. De la prescripción > CAPÍTULO II. De la prescripción del dominio y demás derechos reales
+17,4,years,0.175,173,12y,26,"7y,14y,18y",289,21y,25,"13y,18y",CAPÍTULO V. De la adopción > Sección primera: Disposiciones generales
+18,4,years,0.174,254,"2y,16y",26,"7y,14y,18y",289,21y,25,"13y,18y",CAPÍTULO II. De las medidas voluntarias de apoyo > Sección 1.ª Disposiciones generales
+19,4,years,0.166,244,16y,270,18y,62,21y,642,2y,TÍTULO X. De la mayor edad y de la emancipación > CAPÍTULO VII. De las excusas de tutela y protutela
+20,4,years,0.164,1660,2y,2042,5y,2346,12y,1198,"2y,3y",TÍTULO VII. De los censos > CAPÍTULO IV. Del censo reservativo
+21,4,years,0.162,178,12y,49 BIS,"2y,15d",143,18y,595,10y,CAPÍTULO V. De la adopción > Sección segunda: De la adopción plena
+22,4,years,0.16,132,4y,207,3y,116,18y,582,1y,CAPÍTULO IV. De los hijos ilegítimos > Sección 2.ª De la reclamación
+23,4,years,0.16,1962,6y,920,1y,2533,"5y,10y",1965,10y,TÍTULO XVIII. De la prescripción > CAPÍTULO III. De la prescripción de las acciones
+24,4,years,0.158,762,5y,975,5y,1032,10y,1668,30y,CAPÍTULO II. De la herencia > Sección 2.ª De la institución de heredero
+25,4,years,0.151,179,2y,214,1y,116,18y,599,16y,CAPÍTULO V. De la adopción > Sección tercera: De la adopción simple
+26,4,years,0.151,844,1y,1332,2y,67,"1m,1y,31d,366d",2288,10y,CAPÍTULO II. De la herencia > Sección 8.ª Pago de la porción hereditaria en casos especiales
+27,4,years,0.15,400,10y,1317,5y,2046,"1y,5y",1198,"2y,3y","LIBRO SEGUNDO. De los animales, de los bienes, de la propiedad y de sus modificaciones > TÍTULO III. De la comunidad de bienes"
+28,3,years,0.41,537,20y,882,5y,938,"8y,10y",,,CAPÍTULO I. De las servidumbres en general > Sección 2.ª De los modos de adquirir las servidumbres
+29,3,years,0.308,193,"1y,3m,5y,6m,10y",82,"5y,10y",97,"2y,4m",,,TÍTULO VIII. De la ausencia > CAPÍTULO II. De la declaración de fallecimiento
+30,3,years,0.273,175,"1y,5y,16y,25y",,,34,"7y,14y",599,16y,CAPÍTULO V. De la adopción > Sección 2.ª De la adopción
+31,3,years,0.241,1967,3y,2521,"2y,3y",2543,"2y,4y",,,TÍTULO XVIII. De la prescripción > CAPÍTULO III. De la prescripción de las acciones
+32,3,years,0.23,1955,"3y,6y",1869,"1y,18m",,,1965,10y,TÍTULO XVIII. De la prescripción > CAPÍTULO II. De la prescripción del dominio y demás derechos reales
+33,3,years,0.217,904,1y,1304,1y,1326,"5y,10y",,,CAPÍTULO II. De la herencia > Sección 11.ª De los albaceas o testamentarios
+34,3,years,0.216,1959,30y,,,2533,"5y,10y",1898,"2y,10y",TÍTULO XVIII. De la prescripción > CAPÍTULO II. De la prescripción del dominio y demás derechos reales
+35,3,days,0.201,1804,20d,2270,30d,,,1608,30d,TÍTULO XII. De los contratos aleatorios o de suerte > CAPÍTULO IV. De la renta vitalicia
+36,3,years,0.196,1056,5y,1332,2y,,,2330,10y,CAPÍTULO VI. De la colación y partición > Sección 2.ª De la partición
+37,3,years,0.174,180,"2y,50y",,,34,"7y,14y",634,10y,TÍTULO VIII. De la ausencia > CAPÍTULO I. Declaración de la ausencia y sus efectos.
+38,3,years,0.174,194,"2y,8d",81,"2m,3m,5y",97,"2y,4m",,,TÍTULO VIII. De la ausencia > CAPÍTULO V. De los efectos de la ausencia relativamente a los derechos eventuales del ausente
+39,3,years,0.17,166,16y,46,"3y,6m",,,121,3y,TÍTULO VII. De las relaciones paterno-filiales > CAPÍTULO IV. De los modos de acabarse la patria potestad
+40,3,years,0.17,234,3y,,,2346,12y,2561,"3y,10y","TÍTULO X. De la tutela, de la curatela y de la guarda de los menores o incapacitados > CAPÍTULO II. Del defensor judicial del menor"
+41,3,years,0.17,775,14y,4,18y,34,"7y,14y",,,CAPÍTULO II. De la herencia > Sección 3.ª De la sustitución
+42,3,years,0.17,1548,6y,1866,"1y,6m",,,1922,10y,CAPÍTULO II. De los arrendamientos de fincas rústicas y urbanas > Sección 1.ª Disposiciones generales
+43,3,years,0.168,287,6y,1749,5y,,,121,3y,TÍTULO XI. De las medidas de apoyo a las personas con discapacidad para el ejercicio de su capacidad jurídica > CAPÍTULO XI. Del registro de las tutelas
+44,3,years,0.166,268,"3y,6y",,,143,18y,32,13y,CAPÍTULO IV. De la curatela > Sección 1.ª Disposiciones generales
+45,3,days,0.166,712,10d,1044,90d,1093,30d,,,CAPÍTULO I. De los testamentos > Sección 6.ª Del testamento cerrado
+46,3,years,0.164,75,1y,270,18y,143,18y,,,TÍTULO IV. Del matrimonio > CAPÍTULO II. Del matrimonio canónico
+47,3,years,0.16,161,12y,26,"7y,14y,18y",143,18y,,,TÍTULO VII. De las relaciones paterno-filiales > CAPÍTULO II. De la representación legal de los hijos
+48,3,years,0.159,245,16y,191,1y,34,"7y,14y",,,TÍTULO X. De la mayor edad y de la emancipación > CAPÍTULO VII. De las excusas de tutela y protutela
+49,3,years,0.159,1434,2y,1792,5y,,,2560,5y,TÍTULO III. Del régimen económico matrimonial > CAPÍTULO VI. Del régimen de separación de bienes
+50,3,years,0.155,1299,4y,,,1750,4y,1506,"2y,4y",TÍTULO II. De los contratos > CAPÍTULO VI. De la nulidad de los contratos
+51,3,years,0.154,701,16y,1012,18y,1068,18y,,,CAPÍTULO I. De los testamentos > Sección 5.ª Del testamento abierto
+52,3,days,0.152,1640,9d,2200,10d,,,1877,"5d,30d",CAPÍTULO II. Del censo enfitéutico > Sección 1.ª Disposiciones relativas a la enfiteusis
+53,3,years,0.149,232,"3m,5y",425,4y,2533,"5y,10y",,,"TÍTULO X. De la tutela, de la curatela y de la guarda de los menores o incapacitados > CAPÍTULO V. Del protutor"
+54,3,days,0.148,718,10d,1044,90d,1093,30d,,,CAPÍTULO I. De los testamentos > Sección 7.ª Del testamento militar
+55,3,years,0.147,18,10y,,,938,"8y,10y",1898,"2y,10y",LIBRO PRIMERO. De las personas > TÍTULO I. De los españoles y extranjeros
+56,3,years,0.145,23,14y,,,34,"7y,14y",600,5y,LIBRO PRIMERO. De las personas > TÍTULO I. De los españoles y extranjeros
+57,3,years,0.142,21,"14y,18y,80d",214,1y,,,600,5y,LIBRO PRIMERO. De las personas > TÍTULO I. De los españoles y extranjeros
+58,3,years,0.142,223,12y,26,"7y,14y,18y",34,"7y,14y",,,CAPÍTULO II. De la tutela > Sección 3.ª Del ejercicio de la tutela
+59,2,years,0.373,409,20y,,,893,8y,,,CAPÍTULO I. De las aguas > Sección 2.ª Del aprovechamiento de las aguas públicas
+60,2,years,0.323,411,20y,,,893,8y,,,CAPÍTULO I. De las aguas > Sección 3.ª Del aprovechamiento de las aguas de dominio privado
+61,2,years,0.276,1431,3y,1792,1y,,,,,TÍTULO III. Del régimen económico matrimonial > CAPÍTULO VI. De la separación de los bienes de los cónyuges y de su administración por la mujer durante el matrimonio
+62,2,years,0.275,663,14y,,,,,32,13y,CAPÍTULO I. De los testamentos > Sección 1.ª De la capacidad para disponer por testamento
+63,2,days,0.253,1497,3d,2270,30d,,,,,CAPÍTULO IV. De las obligaciones del vendedor > Sección 3.ª Del saneamiento
+64,2,years,0.242,1609,1y,9,5y,,,,,TÍTULO VII. De los censos > CAPÍTULO I. Disposiciones generales
+65,2,years,0.233,1964,"5y,20y",,,2533,"5y,10y",,,TÍTULO XVIII. De la prescripción > CAPÍTULO III. De la prescripción de las acciones
+66,2,years,0.232,24,3y,,,,,600,5y,LIBRO PRIMERO. De las personas > TÍTULO I. De los españoles y extranjeros
+67,2,years,0.198,1648,3y,,,1652,1y,,,CAPÍTULO II. Del censo enfitéutico > Sección 1.ª Disposiciones relativas a la enfiteusis
+68,2,months,0.19,1771,1m,,,,,1961,6m,CAPÍTULO II. Del depósito propiamente dicho > Sección 3.ª De las obligaciones del depositario
+69,2,years,0.188,294,3y,,,2346,12y,,,TÍTULO X. Del consejo de familia > CAPÍTULO V. Del defensor judicial de la persona con discapacidad
+70,2,years,0.186,19,"2y,18y",,,,,634,10y,LIBRO PRIMERO. De las personas > TÍTULO I. De los españoles y extranjeros
+71,2,days,0.169,1638,9d,212,"1y,80d",,,,,CAPÍTULO II. Del censo enfitéutico > Sección 1.ª Disposiciones relativas a la enfiteusis
+72,2,years,0.156,292,"3m,5y",,,2533,"5y,10y",,,TÍTULO X. Del consejo de familia > Sección primera. De la formación del consejo de familia
+73,2,years,0.156,1968,1y,,,2358,3y,,,TÍTULO XVIII. De la prescripción > CAPÍTULO III. De la prescripción de las acciones

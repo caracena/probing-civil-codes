@@ -1,0 +1,114 @@
+[
+ {
+  "id": "serv-adq",
+  "topic": "Adquisicion de servidumbres continuas y aparentes por prescripcion",
+  "q": "por prescripcion de cuantos {unit} se adquieren las servidumbres continuas y aparentes?",
+  "unit": "years",
+  "values": {"ES": 20, "CL": 5, "CO": 8},
+  "arts": {"ES": "537", "CL": "882", "CO": "939"},
+  "note": "AR omitted: 2015 code has no distinct servitude-acquisition period (general usucapion)."
+ },
+ {
+  "id": "serv-ext",
+  "topic": "Extincion de servidumbre por no uso",
+  "q": "durante cuantos {unit} debe dejar de gozarse una servidumbre para que se extinga por el no uso?",
+  "unit": "years",
+  "values": {"ES": 20, "CL": 3, "CO": 20, "AR": 10},
+  "arts": {"ES": "546", "CL": "885", "CO": "942", "AR": "2182"}
+ },
+ {
+  "id": "donacion",
+  "topic": "Revocacion de donacion por ingratitud",
+  "q": "en cuantos {unit} prescribe (o caduca) la accion para revocar una donacion por causa de ingratitud?",
+  "unit": "years",
+  "values": {"ES": 1, "CL": 4, "CO": 4, "AR": 1},
+  "arts": {"ES": "652", "CL": "1430", "CO": "1487", "AR": "1573"}
+ },
+ {
+  "id": "muebles",
+  "topic": "Prescripcion adquisitiva ordinaria de bienes muebles",
+  "q": "cuantos {unit} de posesion de buena fe se requieren para adquirir por prescripcion ordinaria un bien mueble?",
+  "unit": "years",
+  "values": {"ES": 3, "CL": 2, "CO": 3},
+  "arts": {"ES": "1955", "CL": "2508", "CO": "2529"},
+  "note": "AR omitted: possession of movables is largely instantaneous under the 2015 code."
+ },
+ {
+  "id": "inmuebles",
+  "topic": "Prescripcion adquisitiva ordinaria de inmuebles (entre presentes)",
+  "q": "cuantos {unit} de posesion con buena fe y justo titulo se requieren para adquirir por prescripcion ordinaria un bien inmueble entre presentes?",
+  "unit": "years",
+  "values": {"ES": 10, "CL": 5, "CO": 5, "AR": 10},
+  "arts": {"ES": "1957", "CL": "2508", "CO": "2529", "AR": "1898"}
+ },
+ {
+  "id": "extraordinaria",
+  "topic": "Prescripcion adquisitiva extraordinaria",
+  "q": "cuantos {unit} de posesion se requieren para adquirir el dominio por prescripcion adquisitiva extraordinaria, sin titulo ni buena fe?",
+  "unit": "years",
+  "values": {"ES": 30, "CL": 10, "CO": 10, "AR": 20},
+  "arts": {"ES": "1959", "CL": "2511", "CO": "2532", "AR": "1899"}
+ },
+ {
+  "id": "ruina",
+  "topic": "Responsabilidad del constructor por ruina del edificio",
+  "q": "dentro de cuantos {unit} desde la entrega responde el constructor si el edificio se arruina por vicios de la construccion?",
+  "unit": "years",
+  "values": {"ES": 10, "CL": 5, "CO": 10, "AR": 10},
+  "arts": {"ES": "1591", "CL": "2003", "CO": "2060", "AR": "1275"}
+ },
+ {
+  "id": "fiador",
+  "topic": "Derecho del fiador a ser relevado de la fianza por el transcurso del tiempo",
+  "q": "al cabo de cuantos {unit} desde el otorgamiento puede el fiador exigir al deudor que le releve de la fianza o le caucione sus resultas?",
+  "unit": "years",
+  "values": {"ES": 10, "CL": 5, "CO": 10, "AR": 5},
+  "arts": {"ES": "1843", "CL": "2369", "CO": "2394", "AR": "1594"},
+  "note": "Cross-cluster pattern: ES=CO=10, CL=AR=5 (breaks the usual ES / Bello-CL-CO / AR grouping)."
+ },
+ {
+  "id": "indivision",
+  "topic": "Pacto de indivision (plazo maximo para no dividir la cosa comun o la herencia)",
+  "q": "por cuantos {unit} como maximo puede pactarse validamente la indivision, es decir no dividir la cosa comun o la herencia?",
+  "unit": "years",
+  "values": {"ES": 10, "CL": 5, "CO": 5, "AR": 10},
+  "arts": {"ES": "400", "CL": "1317", "CO": "1374", "AR": "2000"},
+  "note": "2-2 split ES=AR=10, CL=CO=5. ES 400 'pacto de conservar la cosa indivisa ... no exceda de diez anos'; AR 2000 'suspender la particion ... no exceda de diez anos'; CL 1317 / CO 1374 'proindivision por mas de cinco anos'."
+ },
+ {
+  "id": "nulidad",
+  "topic": "Prescripcion (caducidad) de la accion de nulidad relativa / rescision de un contrato",
+  "q": "en cuantos {unit} prescribe o caduca la accion para pedir la nulidad relativa o rescision de un contrato?",
+  "unit": "years",
+  "values": {"ES": 4, "CL": 4, "CO": 4, "AR": 2},
+  "arts": {"ES": "1301", "CL": "1691", "CO": "1750", "AR": "2563"},
+  "note": "3-1 split: ES=CL=CO=4 (Bello 'cuadrienio'), AR=2 (art 2563 'plazo de dos anos')."
+ },
+ {
+  "id": "retroventa",
+  "topic": "Plazo maximo para ejercer el pacto de retroventa",
+  "q": "durante cuantos {unit} como maximo puede ejercerse el pacto de retroventa desde la fecha del contrato?",
+  "unit": "years",
+  "values": {"ES": 4, "CL": 4, "CO": 4, "AR": 5},
+  "arts": {"ES": "1508", "CL": "1885", "CO": "1943", "AR": "1167"},
+  "note": "3-1 split: ES=CL=CO=4, AR=5 (art 1167 'no exceda de cinco anos' para inmuebles). ES default 4 (max 10 por estipulacion)."
+ },
+ {
+  "id": "muerte-presunta",
+  "topic": "Declaracion de muerte presunta / fallecimiento por desaparicion (caso ordinario)",
+  "q": "tras cuantos {unit} sin noticias del desaparecido puede declararse la presuncion de muerte (o el fallecimiento) en el caso ordinario?",
+  "unit": "years",
+  "values": {"ES": 10, "CL": 5, "CO": 2, "AR": 3},
+  "arts": {"ES": "193", "CL": "81", "CO": "97", "AR": "85"},
+  "note": "FIRST fully all-4-distinct item: ES10/CL5/CO2/AR3. Headline 'caso ordinario' term of years without news; sub-periods (peligro/guerra, posesion definitiva, dia presuntivo) differ and are excluded."
+ },
+ {
+  "id": "honorarios",
+  "topic": "Prescripcion corta de honorarios de abogados y demas profesionales (y gastos judiciales)",
+  "q": "en cuantos {unit} prescribe la accion para cobrar los honorarios de abogados y demas profesionales?",
+  "unit": "years",
+  "values": {"ES": 3, "CL": 2, "CO": 3},
+  "arts": {"ES": "1967", "CL": "2521", "CO": "2542"},
+  "note": "AR omitted: professional-fee prescription is largely procedural/provincial, not fixed in the 2015 CCyC. Cross-cluster ES=CO=3 vs CL=2; scope slightly heterogeneous (ES/CO include gastos judiciales)."
+ }
+]

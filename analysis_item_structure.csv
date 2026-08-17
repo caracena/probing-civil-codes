@@ -1,0 +1,14 @@
+item,unit,ES,CL,CO,AR,n_present,n_distinct,all_distinct,unique_countries
+serv-adq,years,20,5,8,,3,3,True,ESCLCO
+serv-ext,years,20,3,20,10,4,3,False,CLAR
+donacion,years,1,4,4,1,4,2,False,-
+muebles,years,3,2,3,,3,2,False,CL
+inmuebles,years,10,5,5,10,4,2,False,-
+extraordinaria,years,30,10,10,20,4,3,False,ESAR
+ruina,years,10,5,10,10,4,2,False,CL
+fiador,years,10,5,10,5,4,2,False,-
+indivision,years,10,5,5,10,4,2,False,-
+nulidad,years,4,4,4,2,4,2,False,AR
+retroventa,years,4,4,4,5,4,2,False,AR
+muerte-presunta,years,10,5,2,3,4,4,True,ESCLCOAR
+honorarios,years,3,2,3,,3,2,False,CL
