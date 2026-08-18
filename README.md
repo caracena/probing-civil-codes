@@ -16,10 +16,6 @@ This repo builds a benchmark of such provisions across **ES, CL, CO, AR**, runs
 each model once per country (plus an unspecified-country baseline), and scores
 the answers deterministically by extracting the number.
 
-Companion short paper (NLLP 2026): *"Which Country's Code? Probing
-Jurisdictional Conflation across Spanish-Language Civil Codes in Large Language
-Models."*
-
 ## Headline finding
 
 Conflation is **capability-dependent**, not a fixed property of "LLMs":
